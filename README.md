@@ -22,7 +22,7 @@ This tool makes it easy to **see the impact of μ and σ** in an intuitive, visu
 ### **1 Standard Normal Distribution (μ=0, σ=1)**
 This is the **baseline normal distribution**, where **Mean = 0** and **Standard Deviation = 1**.
 
-![Standard Normal Distribution](assets/mean0_std1.png)
+![Standard Normal Distribution](assets/mean0std1.png)
 
 ---
 
