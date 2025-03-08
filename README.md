@@ -29,21 +29,21 @@ This is the **baseline normal distribution**, where **Mean = 0** and **Standard 
 ### **2️⃣ Effect of Increasing Standard Deviation (σ)**
 Increasing **σ** makes the curve **wider and flatter**, indicating higher variance.
 
-![Effect of Standard Deviation](assets/std_change.png)
+![Effect of Standard Deviation](assets/stdchange.png)
 
 ---
 
 ### **3️⃣ Effect of Changing Mean (μ)**
 Changing **μ** shifts the curve **left or right**, without affecting its shape.
 
-![Effect of Mean](assets/mean_change.png)
+![Effect of Mean](assets/meanchange.png)
 
 ---
 
 ### **4️⃣ Changing Both Mean & Standard Deviation**
 When both **μ and σ** change, the curve **shifts and reshapes**, demonstrating their combined effects.
 
-![Effect of Both Mean and Standard Deviation](assets/both_change.png)
+![Effect of Both Mean and Standard Deviation](assets/change.png)
 
 ---
 
